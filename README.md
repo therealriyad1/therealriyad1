@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack and Linux Lover!
 - 🔭 I’m currently working on a side project with nodeJS!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning {JavaScript/ nodeJs /TypeScript}
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
