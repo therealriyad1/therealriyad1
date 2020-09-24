@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="AWS cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
@@ -28,15 +28,6 @@
 <img align="left" alt="vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <br />
 <br />
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Try Hack Me - Wgel CTF 🌲 🦕](https://therealriyad1.github.io/myportfolio/blog-single.html)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="therealriyad1's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=therealriyad1&show_icons=true&hide_border=true" />
 
