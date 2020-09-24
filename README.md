@@ -1,6 +1,6 @@
 ### Hi there, I'm Riyad - aka [therealriyad1][website] 👋
 
-## I'm a Full-Stack and Linux Lover!
+## I'm a Full-Stack and Js Lover!
 - 🔭 I’m currently working on a side project with nodeJS!
 - 🌱 I’m currently learning {JavaScript/ nodeJs /TypeScript}
 - 👯 I’m looking to collaborate with other content creators
