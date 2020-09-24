@@ -1,7 +1,7 @@
 ### Hi there, I'm Riyad - aka [therealriyad1][website] 👋
 
 ## I'm a Full-Stack and Linux Lover!
-- 🔭 I’m currently working on a [Pentesting Course][website]!
+- 🔭 I’m currently working on a [side project with nodeJS]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
